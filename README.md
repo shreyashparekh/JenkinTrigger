@@ -1,3 +1,1 @@
-# JTrigger
-# JenkinTrigger
 # JenkinTrigger
