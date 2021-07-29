@@ -1,0 +1,16 @@
+E:\IT\Company\Specialization\C# Specialization\JTriggerDemo\bin\Debug\net5.0\JTriggerDemo.exe
+E:\IT\Company\Specialization\C# Specialization\JTriggerDemo\bin\Debug\net5.0\JTriggerDemo.deps.json
+E:\IT\Company\Specialization\C# Specialization\JTriggerDemo\bin\Debug\net5.0\JTriggerDemo.runtimeconfig.json
+E:\IT\Company\Specialization\C# Specialization\JTriggerDemo\bin\Debug\net5.0\JTriggerDemo.runtimeconfig.dev.json
+E:\IT\Company\Specialization\C# Specialization\JTriggerDemo\bin\Debug\net5.0\JTriggerDemo.dll
+E:\IT\Company\Specialization\C# Specialization\JTriggerDemo\bin\Debug\net5.0\ref\JTriggerDemo.dll
+E:\IT\Company\Specialization\C# Specialization\JTriggerDemo\bin\Debug\net5.0\JTriggerDemo.pdb
+E:\IT\Company\Specialization\C# Specialization\JTriggerDemo\obj\Debug\net5.0\JTriggerDemo.csproj.AssemblyReference.cache
+E:\IT\Company\Specialization\C# Specialization\JTriggerDemo\obj\Debug\net5.0\JTriggerDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT\Company\Specialization\C# Specialization\JTriggerDemo\obj\Debug\net5.0\JTriggerDemo.AssemblyInfoInputs.cache
+E:\IT\Company\Specialization\C# Specialization\JTriggerDemo\obj\Debug\net5.0\JTriggerDemo.AssemblyInfo.cs
+E:\IT\Company\Specialization\C# Specialization\JTriggerDemo\obj\Debug\net5.0\JTriggerDemo.csproj.CoreCompileInputs.cache
+E:\IT\Company\Specialization\C# Specialization\JTriggerDemo\obj\Debug\net5.0\JTriggerDemo.dll
+E:\IT\Company\Specialization\C# Specialization\JTriggerDemo\obj\Debug\net5.0\ref\JTriggerDemo.dll
+E:\IT\Company\Specialization\C# Specialization\JTriggerDemo\obj\Debug\net5.0\JTriggerDemo.pdb
+E:\IT\Company\Specialization\C# Specialization\JTriggerDemo\obj\Debug\net5.0\JTriggerDemo.genruntimeconfig.cache
